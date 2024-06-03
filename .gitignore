@@ -1,0 +1,13 @@
+VOCtrainval-2007_og/
+VOCtest-2007_og/
+weight/
+yolo_env/
+results_voc/
+ __pycache__/
+ utils/__pycache__/
+ *.pyc
+ .ipynb_checkpoints/
+ train_annotation_og.txt
+ test_annotation_og.txt
+ test_samples_annotation.txt
+ generate_dataset.py
